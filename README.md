@@ -1,5 +1,5 @@
 # QuizMasterSystem
-Perfect! I've created a complete console-based quiz system with the following features:
+ features:
 Project Structure
 3 Main Classes:
 
